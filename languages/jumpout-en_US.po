@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JumpOut v3.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-03 00:59+0700\n"
+"Last-Translator: Eugene Bos <eugenebos@makedreamprofits.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: class.php:117
+msgid "JumpOut"
+msgstr ""
+
+# @ default
+#: class.php:564
+msgid "МиниПерсонализатор"
+msgstr "MiniPersonalizator"
+
+# @ jumpout
+#: templates/list.php:55
+msgid "сплит-тест"
+msgstr "split-test"
+
+# @ jumpout
+#: templates/list.php:55
+msgid "серия попапов"
+msgstr "popup series"
+
+# @ jumpout
+#: templates/list.php:62
+msgid "Попапы"
+msgstr "Popups"
+
+# @ jumpout
+#: templates/list.php:82
+msgid "Добро пожаловать в плагин JumpOut'а!"
+msgstr "Welcome to the JumpOut's plugin!"
+
+# @ jumpout
+#: templates/main_teamplate.php:5
+msgid "http://makedreamprofits.ru/support/"
+msgstr "http://makedreamprofits.com/support/"
+
+# @ jumpout
+#: templates/main_teamplate.php:5
+msgid "Техподдержка"
+msgstr "Support"
+
+# @ jumpout
+#: templates/main_teamplate.php:12
+msgid "Новый попап"
+msgstr "New popup"
+
+# @ jumpout
+#: templates/main_teamplate.php:28
+msgid "Синхронизировать"
+msgstr "Synchronize"
+
+# @ jumpout
+#: templates/main_teamplate.php:30
+msgid "Скрипт МиниПерсонализатор"
+msgstr "Script MiniPersonalizator"
+
+# @ jumpout
+#: templates/list.php:85
+msgid ""
+"Первое, что нам нужно сделать - разрешить доступ плагину к вашему аккаунту с попапами.\n"
+"            Чтобы это сделать, просто нажмите на кнопку ниже:"
+msgstr "The first thing what we have to do is allow the plugin access to your popups on JumpOut's website. To do it just click the button below:"
+
+# @ jumpout
+#: templates/list.php:90
+msgid "Начать использование!"
+msgstr "Start using!"
+
+# @ jumpout
+#: templates/list.php:101
+msgid ""
+"Судя по всему, вы еще не создавали попапов. Что ж, пришло время это сделать! \n"
+"            Нажмите на кнопку \"Новый попап\" сверху или под этими строками:"
+msgstr "Looks like you didn't create any popups yet. So, it's time to try it! Just press the button \"New popup\" at the top or below this text:"
+
+# @ jumpout
+#: templates/list.php:106
+msgid "Создать первый попап!"
+msgstr "Create first popup!"
+
+# @ jumpout
+#: templates/list.php:110
+msgid "После того, как добавите, нажмите на кнопку сверху \"Синхронизировать\""
+msgstr "After you create a new popup, click on the button \"Synchronize\" at the top of the page"
+
+# @ jumpout
+#: templates/magic_begins.php:15
+msgid ""
+"Описание этого скрипта, вы можете найти по\n"
+"        <a href=\"http://jumpout.makedreamprofits.ru/bonuses/\" target=\"_blank\">этой ссылке</a>.\n"
+"        После включения, плагин автоматически вставит его на все страницы вашего сайта."
+msgstr "The script's description you can find  <a href=\"http://jumpout.makedreamprofits.ru/bonuses/\" target=\"_blank\">here</a>. After you will enable the script, plugin automatically insert it on all pages of your wordpress website."
+
+# @ jumpout
+#: templates/magic_begins.php:23
+msgid "Включить скрипт"
+msgstr "Enable script"
+
+# @ jumpout
+#: templates/magic_begins.php:30
+msgid "Включить автозаполнение форм подписки, когда есть данные подписчика"
+msgstr "Enabled autofilling opt-in forms, when script has subscriber's data"
+
+# @ jumpout
+#: templates/magic_begins.php:36
+msgid "Асинхронная загрузка (не задерживает загрузку вашего сайта, рекомендуется)"
+msgstr "Asynchronous load (doesn't slow down your website loading process, recommended)"
+
+# @ jumpout
+#: templates/session_token_error.php:7
+msgid "Попробовать еще раз!"
+msgstr "Try again!"
+
+# @ jumpout
+#: templates/session_token_error.php:12
+msgid "Если же не в первый раз - обратитесь в техподдержку."
+msgstr "If it's not the first time - please, contact our support."
+
+# @ jumpout
+#: templates/session_token_error.php:12
+msgid "Если же не в первый раз - просто вставьте код JumpOut ниже:"
+msgstr "If it's not the first time - simply enter JumpOut's code below:"
+
+# @ jumpout
+#: templates/magic_begins.php:46
+msgid "Сохранить"
+msgstr "Save"
+
+# @ jumpout
+#: templates/session_token_error.php:2
+msgid ""
+"К сожалению, судя по всему произошла ошибка получения секретного ключа от нашего сервиса.\n"
+"    Если вы видите это сообщение в первый раз, попробуйте разрешить доступ еще раз:)"
+msgstr "Unfortunately, looks like we got an error while receiving a secret key from JumpOut's website. If you see this message for the first time, please, just try it again:)"
+
+# @ jumpout
+#: templates/list.php:4
+msgid "Отлично! Теперь, чтобы установить попап на сайт, просто нажмите \"Активировать\" под его названием."
+msgstr "Great! Now, in order to install a popup on your website, just click \"Activate\" link below it's name"
+
+# @ jumpout
+#: templates/list.php:7
+msgid "Чтобы обновить список попапов, нажмите кнопку \"Синхронизировать\" сверху."
+msgstr "To refresh list of popups, click \"Synchronize\" above"
+
+# @ jumpout
+#: templates/list.php:27
+msgid "Название"
+msgstr "Title"
+
+# @ jumpout
+#: templates/list.php:30
+msgid "Работать на страницах"
+msgstr "Work on pages"
+
+# @ jumpout
+#: templates/list.php:52
+msgid "Убрать элемент с сайта"
+msgstr "Remove the element from the website"
+
+# @ jumpout
+#: templates/list.php:53
+msgid "Деактивировать"
+msgstr "Deactivate"
+
+# @ jumpout
+#: templates/list.php:56
+msgid "Установить на сайт элемент"
+msgstr "Add the element on the website"
+
+# @ jumpout
+#: templates/list.php:57
+msgid "Активировать"
+msgstr "Activate"
+
+# @ jumpout
+#: templates/list.php:61
+msgid "Редактировать этот элемент"
+msgstr "Edit the element"
+
+# @ jumpout
+#: templates/list.php:62
+msgid "Изменить"
+msgstr "Edit"
+
+# @ jumpout
+#: templates/list.php:69
+msgid "всех"
+msgstr "every"
+
+# @ jumpout
+#: templates/list.php:69
+msgid "Код тут"
+msgstr "Code here"
+
+# @ jumpout
+#: templates/list.php:69
+msgid "Сохранить!"
+msgstr "Save!"
+
+# @ jumpout
+#: class.php:92
+msgid "Подождите, идет синхронизация"
+msgstr "Wait, synchronization is in progress"
+
+# @ jumpout
+#: class.php:93
+msgid "Готово! Перезагрузка страницы"
+msgstr "Done! Refreshing the page"
+
+# @ jumpout
+#: class.php:94
+msgid "Похоже при синхронизации плагин отправил неверный запрос. Попробуйте обновить плагин или напишите в техподдержку."
+msgstr "Looks like, while synchronizing, the plugin sent wrong request. Try to update the plugin or contact our support."
+
+# @ jumpout
+#: class.php:95
+msgid "Ошибка! Попробуйте еще раз или обратитесь в техподдержку!"
+msgstr "Error! Try again or contact our support"
+
+# @ jumpout
+#: class.php:333
+msgid "Начало кода \"JumpOut\""
+msgstr "Start of \"JumpOut\" code"
+
+# @ jumpout
+#: class.php:334
+msgid "Конец кода \"JumpOut\""
+msgstr "End of \"JumpOut\" code"
+
+# @ jumpout
+#: templates/onecode.php:4
+msgid "Отлично! Код установлен на ваш сайт, можете проверить работают ли джампауты."
+msgstr "Great! Jumpout's code installed on your website, you can check if jumpouts are working correctly"
+
+# @ jumpout
+#: templates/onecode.php:4
+msgid "Пока здесь больше ничего нет, но если есть идеи, что показывать - пишите:)"
+msgstr "There is no more here yet, but if you have ideas what to show - contact us :)"
